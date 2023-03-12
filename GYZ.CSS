@@ -1,0 +1,10 @@
+.text   {
+    padding: 10%;
+    font-size: larger;
+}
+
+pre     {
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
